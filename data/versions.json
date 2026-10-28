@@ -1,0 +1,19 @@
+{
+ "country": "YE",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Dustur",
+   "title": "دستور الجمهورية اليمنية",
+   "url": "http://www.scer.org.ye/arabic/dstora.htm",
+   "versions": [
+    {
+     "from": "2001-02-28",
+     "units": 162,
+     "source_url": "https://web.archive.org/web/20021015030929id_/http://www.scer.org.ye:80/arabic/dstora.htm",
+     "sha256": "25c89a7c6aa64c5b9a7216d79b352ff74df711204f93abcec8e4b4d5ed396c5e"
+    }
+   ]
+  }
+ ]
+}
