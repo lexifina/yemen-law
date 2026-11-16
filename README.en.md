@@ -60,6 +60,7 @@ The text is the oldest version available and is credited to the publisher, `Supr
 - `tools/build.py` writes the history from that one corpus file, and the same corpus gives the same commit hashes; no second build has been compared yet.
 - All 162 articles were cross-checked against an independent 2011 Internet Archive capture of the same SCER pages.
 - The wording is not corrected: only the Arabic tatweel (letter stretching), zero-width and direction marks are removed and spacing is collapsed.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -81,6 +82,10 @@ The text is the oldest version available and is credited to the publisher, `Supr
 See [`LICENSE`](LICENSE). Yemen's Law No. 15 of 2012 on Copyright and Related Rights excludes official documents, such as the texts of laws, from protection; the text is published on that basis and will be withdrawn on request. Lexifina's own contributions (the history, commit messages, tables and tools) are CC0 1.0.
 
 No AI model wrote, translated or corrected legal text; the scripts were written by an AI model, and no model runs when the history is built (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 
